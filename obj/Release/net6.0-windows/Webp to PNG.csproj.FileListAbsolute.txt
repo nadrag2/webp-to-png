@@ -1,0 +1,17 @@
+L:\Code\Webp to PNG\bin\Release\net6.0-windows\Webp to PNG.exe
+L:\Code\Webp to PNG\bin\Release\net6.0-windows\Webp to PNG.deps.json
+L:\Code\Webp to PNG\bin\Release\net6.0-windows\Webp to PNG.runtimeconfig.json
+L:\Code\Webp to PNG\bin\Release\net6.0-windows\Webp to PNG.dll
+L:\Code\Webp to PNG\bin\Release\net6.0-windows\Webp to PNG.pdb
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.csproj.AssemblyReference.cache
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp_to_PNG.Form1.resources
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.csproj.GenerateResource.cache
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.GeneratedMSBuildEditorConfig.editorconfig
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.AssemblyInfoInputs.cache
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.AssemblyInfo.cs
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.csproj.CoreCompileInputs.cache
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.dll
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\refint\Webp to PNG.dll
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.pdb
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\Webp to PNG.genruntimeconfig.cache
+L:\Code\Webp to PNG\obj\Release\net6.0-windows\ref\Webp to PNG.dll

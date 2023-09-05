@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "grxm/MpcS6/40FU5wYnC9ixF/v8WQksnpHRMRdiVrpU+w+3HVoDUVcevHozCA3i/QXrUFtuxjopSAMo3lHNUDw==",
+  "success": true,
+  "projectFilePath": "L:\\Code\\Webp to PNG\\Webp to PNG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soula\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.18\\microsoft.netcore.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\Soula\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\Soula\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
